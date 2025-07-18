@@ -1,0 +1,5 @@
+train: /Users/ozgesolmaz/Desktop/GYK-2/plate-project/data/images
+val: /Users/ozgesolmaz/Desktop/GYK-2/plate-project/data/images
+nc: 1
+names:
+  0: plaka
